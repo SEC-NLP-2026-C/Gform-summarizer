@@ -1,4 +1,4 @@
-🚀 My Innovative Gradio-Based Application for Extracting Insights from Feedback Responses
+🚀 Innovative Gradio-Based Application for Extracting Insights from Feedback Responses
 
 I’m excited to showcase my unique project — a Gradio-based application that I personally created to extract valuable insights from feedback responses! 📋💡
 
